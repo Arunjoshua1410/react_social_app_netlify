@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16,2023,11:47:35 AM",
+      "body": "Lorem5"
+    },
+    {
+      "id": 2,
+      "title": "My Second post",
+      "datetime": "October 10,2024 11:47:54 AM",
+      "body": "I am learning MERN Stack"
+    }
+  ]
+}
